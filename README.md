@@ -5,8 +5,7 @@ A small workspace containing two Python scripts and a Jupyter notebook.
 ## Files
 
 - `ddd.py`: Primary Python script (entry point). Run with `python ddd.py`.
-- `pp.py`: Supporting Python module or script. Run with `python pp.py`.
-- `ppp.ipynb`: Jupyter notebook for exploration, analysis, or demos.
+
 
 ## Requirements
 
@@ -21,11 +20,7 @@ python ddd.py
 python pp.py
 ```
 
-Open the notebook with Jupyter or in VS Code:
 
-```bash
-jupyter notebook ppp.ipynb
-```
 
 ## Notes
 
@@ -40,3 +35,4 @@ jupyter notebook ppp.ipynb
 ## License
 
 - No license specified. Add a license file if you intend to publish or share.
+
