@@ -1,4 +1,3 @@
-# studentmarksanddetails
 # Project Overview
 
 A small workspace containing two Python scripts and a Jupyter notebook.
@@ -6,6 +5,8 @@ A small workspace containing two Python scripts and a Jupyter notebook.
 ## Files
 
 - `ddd.py`: Primary Python script (entry point). Run with `python ddd.py`.
+- `pp.py`: Supporting Python module or script. Run with `python pp.py`.
+- `ppp.ipynb`: Jupyter notebook for exploration, analysis, or demos.
 
 ## Requirements
 
@@ -17,9 +18,14 @@ Run the scripts from the workspace root:
 
 ```bash
 python ddd.py
-
+python pp.py
 ```
 
+Open the notebook with Jupyter or in VS Code:
+
+```bash
+jupyter notebook ppp.ipynb
+```
 
 ## Notes
 
